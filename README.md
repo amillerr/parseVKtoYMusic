@@ -15,4 +15,4 @@ Parse vk music to yandex music
 
 6. You need to copy it (press Ctrl + A and then Ctrl + C)
 
-7. Paste your copied list of audio tracks into the import music collection form on the Yandex.Music page
+7. Paste your copied list of audio tracks into the import music collection form on the Yandex.Music page https://music.yandex.ru/import
